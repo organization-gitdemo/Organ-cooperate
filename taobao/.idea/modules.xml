@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/taobao-common/taobao-common.iml" filepath="$PROJECT_DIR$/taobao-common/taobao-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taobao-manager/taobao-manager.iml" filepath="$PROJECT_DIR$/taobao-manager/taobao-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taobao-manager-mapper/taobao-manager-mapper.iml" filepath="$PROJECT_DIR$/taobao-manager-mapper/taobao-manager-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taobao-manager-pojo/taobao-manager-pojo.iml" filepath="$PROJECT_DIR$/taobao-manager-pojo/taobao-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taobao-manager-service/taobao-manager-service.iml" filepath="$PROJECT_DIR$/taobao-manager-service/taobao-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taobao-manager-web/taobao-manager-web.iml" filepath="$PROJECT_DIR$/taobao-manager-web/taobao-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taobao-parent/taobao-parent.iml" filepath="$PROJECT_DIR$/taobao-parent/taobao-parent.iml" />
+    </modules>
+  </component>
+</project>
